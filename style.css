@@ -379,11 +379,11 @@ ul {
     }
 
     .header {
-        background: linear-gradient(90.14deg, rgba(239, 75, 75, 0.83) 32.96%, rgba(252, 252, 252, 0.42) 250.51%);
+        background: #EF6666;
     }
 
     .offer {
-        background: linear-gradient(90.14deg, rgba(239, 75, 75, 0.83) 32.96%, rgba(252, 252, 252, 0.42) 204.51%);
+        background: #EF6666;
     }
     
 }
